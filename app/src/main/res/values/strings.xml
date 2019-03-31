@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TICKET BUDDY</string>
+    <string name="shared_pref_name">userinfo</string>
+
+    <string-array name="bus_places">
+        <item>NO SELECTION</item>
+        <item>AYANAVARAM</item>
+        <item>ANNA_UNIVERSITY</item>
+        <item>BROADWAY</item>
+        <item>CENTRAL</item>
+        <item>CMBT</item>
+        <item>CROMPET</item>
+        <item>DMS</item>
+        <item>EGMORE</item>
+        <item>GUINDY</item>
+        <item>IYYAPANTHANGAL</item>
+        <item>LIC</item>
+        <item>MARINA BEACH</item>
+        <item>MYLAPORE</item>
+        <item>PERAMBUR</item>
+        <item>POONAMALLE</item>
+        <item>PORUR</item>
+        <item>SAIDAPET</item>
+        <item>SIRUSERI</item>
+        <item>TNAGAR</item>
+        <item>TAMBARAM</item>
+        <item>THIRUVERKADU</item>
+        <item>VADAPALANI</item>
+        <item>VELACHERY</item>
+
+
+    </string-array>
+</resources>
